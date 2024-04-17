@@ -9,6 +9,7 @@
   alt="Dog developer"
   data-canonical-src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif"
   data-target="animated-image.originalImage" />
+  <br>
 
 ### 💻 Front-End Skills
 <div align="left">
@@ -26,6 +27,8 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
 </div>
 
+<br>
+
 ### ✏️ UX | UI Skills
 <div align="left">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
@@ -34,6 +37,7 @@
   &nbsp;&nbsp;
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />
 </div>
+<br>
 
 ### 📚 DevOps Skills
 <div align="left">
@@ -42,6 +46,7 @@
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />
   &nbsp;&nbsp;
 </div>
+<br>
 
 ## 💬 Connect with me
 <div align="left">
